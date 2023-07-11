@@ -1,4 +1,4 @@
-<font size = '24'> **GPT_Outputs** </font>
+<font size = '60'> **GPT_Outputs** </font>
 
 This directory contains the text outputs generated with GPT-4 for analysis in the project: "Completeness and Readability of GPT-4 Generated Multilingual Discharge Instructions in the Pediatric Emergency Department" by Alex Gimeno, BS; Kevin Krause, MS; and Colin G. Walsh, MD, MA at Vanderbilt University.
 
