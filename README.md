@@ -13,3 +13,5 @@ This file contains the completeness scores (by criterion) for each output.
 **readability_Scores.xlsx**
 
 This file contains the final readbility and completeness scores for each output used for final analysis.
+
+For questions about the data, please contact Alex Gimeno at alexander.f.gimeno@vanderbilt.edu 
