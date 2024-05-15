@@ -11,6 +11,7 @@ File names are formatted to read diagnosis_language_gradeLevel_iteration.txt. La
 This file contains the readability and completeness scores and ratios (by criterion) for each output.
 
 **completeness_Scores_Comparisons.xlsx**
+
 This file details the discordances between the two file raters and also contains Cohen's kappa values for each chief complaint/diagnosis.
 
 For questions about the data, please contact Alex Gimeno at alexander.f.gimeno@vanderbilt.edu 
